@@ -103,14 +103,7 @@ th {
 .gl-header {
   height: 140px;
   padding-top: 15px;
-  background: linear-gradient(
-      110deg,
-      #000 0%,
-      rgb(27 18 18 / 70%) 70%,
-      rgb(27 18 18 / 80%) 100%
-    ),
-    url("../images/wood.jpg") 0 0 / contain repeat-x;
-  background-blend-mode: hard-light;
+  background-color: #a7541178;
 }
 
 .logo {
@@ -121,10 +114,6 @@ th {
 
 .logo a {
   display: block;
-  width: 200px;
-  height: 65px;
-  text-indent: -9999px;
-  background: url("../images/logo.png") 0 0 / cover no-repeat;
 }
 
 .logo a:hover {
@@ -145,8 +134,7 @@ th {
 
 .gl-nav li a {
   display: block;
-  color: #ccc;
-  text-shadow: 0 0 5px #000;
+  color: #873535;
 }
 
 .gl-nav li a:hover {
@@ -261,7 +249,6 @@ th {
   line-height: 2.4;
   letter-spacing: 0.3em;
   text-shadow: 0 0 5px #422, 0 0 10px #000;
-  background: url("../images/logo2.png") 0 -100px / 90% no-repeat;
   filter: drop-shadow(0 0 50px #422);
 }
 
