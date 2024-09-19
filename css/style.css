@@ -172,7 +172,7 @@ th {
   height: 120px;
   padding-top: 50px;
   margin-top: 50px;
-  background: #a7541178 url("../images/grunge.jpg") 0 top repeat-x;
+  background-color: #a7541178;
   color: #873535;
   letter-spacing: 0.3em;
   text-align: center;
